@@ -1,0 +1,13 @@
+npm install -g express-generator
+
+1. express --view=pug 9_express-app
+
+2. cd 9_express-app
+
+3. npm install
+
+4. npm i -D nodemon
+
+5. Change the start script in pachage.json to use nodemon
+
+6. npm start 

@@ -1,0 +1,16 @@
+1. Create an express js application to do CRUD operation, use pug view engine
+
+2. The data should be store in users.json file in data folder.
+
+3. Create data-access folder to create promise based crud operations
+	getUsers()
+	getUser(id)
+	insertUser(user)
+	updateUser(user)
+	deleteUser(user)
+
+4. Implement MVC pattern in your application
+
+5. Use Bootstrap 3 to style you application
+
+6. Create Bootstrap navigation bar for navigation
